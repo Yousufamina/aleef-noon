@@ -1,4 +1,4 @@
-// File: D:\alifNoon\aleefNoonUpdated\aleef-noon\app\Dashboard\AddProperty\page.js
+// File: C:\Users\Amina\Downloads\aleef-noon\app\Dashboard\AddProperty\page.js
 import * as entry from '../../../../../app/Dashboard/AddProperty/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

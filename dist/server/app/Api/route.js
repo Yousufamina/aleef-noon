@@ -19,7 +19,7 @@ module.exports = require("os");
 
 /***/ }),
 
-/***/ 66210:
+/***/ 10675:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -89,7 +89,7 @@ async function POST(request) {
     }
 }
 
-;// CONCATENATED MODULE: ./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?page=%2FApi%2Froute&name=app%2FApi%2Froute&pagePath=private-next-app-dir%2FApi%2Froute.js&appDir=D%3A%5CalifNoon%5CaleefNoonUpdated%5Caleef-noon%5Capp&appPaths=%2FApi%2Froute&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!
+;// CONCATENATED MODULE: ./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?page=%2FApi%2Froute&name=app%2FApi%2Froute&pagePath=private-next-app-dir%2FApi%2Froute.js&appDir=C%3A%5CUsers%5CAmina%5CDownloads%5Caleef-noon%5Capp&appPaths=%2FApi%2Froute&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!
 
     
 
@@ -97,7 +97,7 @@ async function POST(request) {
 
     
 
-    const options = {"definition":{"kind":"APP_ROUTE","page":"/Api/route","pathname":"/Api","filename":"route","bundlePath":"app/Api/route"},"resolvedPagePath":"D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\Api\\route.js","nextConfigOutput":""}
+    const options = {"definition":{"kind":"APP_ROUTE","page":"/Api/route","pathname":"/Api","filename":"route","bundlePath":"app/Api/route"},"resolvedPagePath":"C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\Api\\route.js","nextConfigOutput":""}
     const routeModule = new (module_default())({
       ...options,
       userland: route_namespaceObject,
@@ -127,7 +127,7 @@ async function POST(request) {
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [2697,5501,9335,4919], () => (__webpack_exec__(66210)));
+var __webpack_exports__ = __webpack_require__.X(0, [2697,5501,9335,4919], () => (__webpack_exec__(10675)));
 module.exports = __webpack_exports__;
 
 })();

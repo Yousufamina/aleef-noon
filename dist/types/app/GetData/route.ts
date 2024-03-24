@@ -1,4 +1,4 @@
-// File: D:\alifNoon\aleefNoonUpdated\aleef-noon\app\GetData\route.js
+// File: C:\Users\Amina\Downloads\aleef-noon\app\GetData\route.js
 import * as entry from '../../../../app/GetData/route.js'
 import type { NextRequest } from 'next/server.js'
 

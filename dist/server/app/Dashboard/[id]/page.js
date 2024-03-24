@@ -196,7 +196,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 79116:
+/***/ 60915:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -232,7 +232,7 @@ __webpack_require__.r(__webpack_exports__);
         '[id]',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41122)), "D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\Dashboard\\[id]\\page.js"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41122)), "C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\Dashboard\\[id]\\page.js"],
           
         }]
       },
@@ -243,7 +243,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 26920)), "D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\Dashboard\\layout.js"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 26920)), "C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\Dashboard\\layout.js"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 57481))).default(props))],
     apple: [],
@@ -255,7 +255,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 68658)), "D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\layout.js"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 68658)), "C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\layout.js"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 57481))).default(props))],
     apple: [],
@@ -266,7 +266,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\Dashboard\\[id]\\page.js"];
+    const pages = ["C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\Dashboard\\[id]\\page.js"];
 
     
 
@@ -328,7 +328,7 @@ function page() {
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [2697,7608,2196,2050,5586,1261,3044], () => (__webpack_exec__(79116)));
+var __webpack_exports__ = __webpack_require__.X(0, [2697,7608,2196,2050,5586,2133,1602], () => (__webpack_exec__(60915)));
 module.exports = __webpack_exports__;
 
 })();

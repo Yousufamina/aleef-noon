@@ -196,7 +196,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 32716:
+/***/ 9195:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -229,7 +229,7 @@ __webpack_require__.r(__webpack_exports__);
         'login',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 97086)), "D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\login\\page.js"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 97086)), "C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\login\\page.js"],
           
         }]
       },
@@ -246,7 +246,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 68658)), "D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\layout.js"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 68658)), "C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\layout.js"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 57481))).default(props))],
     apple: [],
@@ -257,7 +257,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\login\\page.js"];
+    const pages = ["C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\login\\page.js"];
 
     
 
@@ -282,7 +282,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 59714:
+/***/ 67306:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 52625))
@@ -454,7 +454,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(61363);
 
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\app\login\page.js`)
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\app\login\page.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -475,7 +475,7 @@ const __default__ = proxy.default;
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [2697,7608,1261], () => (__webpack_exec__(32716)));
+var __webpack_exports__ = __webpack_require__.X(0, [2697,7608,2133], () => (__webpack_exec__(9195)));
 module.exports = __webpack_exports__;
 
 })();

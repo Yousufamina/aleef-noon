@@ -621,7 +621,7 @@ exports["default"] = _default;
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(61363);
-module.exports = createProxy("D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\node_modules\\antd\\lib\\col\\index.js");
+module.exports = createProxy("C:\\Users\\Amina\\Downloads\\aleef-noon\\node_modules\\antd\\lib\\col\\index.js");
 
 
 /***/ }),
@@ -632,7 +632,7 @@ module.exports = createProxy("D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\node_m
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(61363);
-module.exports = createProxy("D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\node_modules\\antd\\lib\\row\\index.js");
+module.exports = createProxy("C:\\Users\\Amina\\Downloads\\aleef-noon\\node_modules\\antd\\lib\\row\\index.js");
 
 
 /***/ }),
@@ -643,7 +643,7 @@ module.exports = createProxy("D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\node_m
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy } = __webpack_require__(61363);
-module.exports = createProxy("D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\node_modules\\next\\dist\\client\\link.js");
+module.exports = createProxy("C:\\Users\\Amina\\Downloads\\aleef-noon\\node_modules\\next\\dist\\client\\link.js");
  //# sourceMappingURL=link.js.map
 
 

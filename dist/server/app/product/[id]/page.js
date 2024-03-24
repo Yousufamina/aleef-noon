@@ -236,7 +236,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 57999:
+/***/ 4554:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -272,7 +272,7 @@ __webpack_require__.r(__webpack_exports__);
         '[id]',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 27729)), "D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\product\\[id]\\page.js"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 27729)), "C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\product\\[id]\\page.js"],
           
         }]
       },
@@ -295,7 +295,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 68658)), "D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\layout.js"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 68658)), "C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\layout.js"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 57481))).default(props))],
     apple: [],
@@ -306,7 +306,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["D:\\alifNoon\\aleefNoonUpdated\\aleef-noon\\app\\product\\[id]\\page.js"];
+    const pages = ["C:\\Users\\Amina\\Downloads\\aleef-noon\\app\\product\\[id]\\page.js"];
 
     
 
@@ -331,23 +331,23 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 52921:
+/***/ 60121:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 57302));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47807));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 71413));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 30105));
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 50954, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 32616));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 20620));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 57302));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2596));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 86254));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 24034));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 12618));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2427));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 61438));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 81107));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2596));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 50954, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 30105));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 20620));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 71413));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 86254));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 32616))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 81107))
 
 /***/ }),
 
@@ -1338,7 +1338,7 @@ var react_shared_subset = __webpack_require__(62947);
 var module_proxy = __webpack_require__(61363);
 ;// CONCATENATED MODULE: ./components/header/Index.js
 
-const proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\header\Index.js`)
+const proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\header\Index.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1351,7 +1351,7 @@ const __default__ = proxy.default;
 /* harmony default export */ const Index = (__default__);
 ;// CONCATENATED MODULE: ./components/sections/Footer.js
 
-const Footer_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\sections\Footer.js`)
+const Footer_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\sections\Footer.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1364,7 +1364,7 @@ const Footer_default_ = Footer_proxy.default;
 /* harmony default export */ const Footer = (Footer_default_);
 ;// CONCATENATED MODULE: ./components/ImageGallery.js
 
-const ImageGallery_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\ImageGallery.js`)
+const ImageGallery_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\ImageGallery.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1383,7 +1383,7 @@ var row = __webpack_require__(85243);
 var row_default = /*#__PURE__*/__webpack_require__.n(row);
 ;// CONCATENATED MODULE: ./components/propertyContent/Content.js
 
-const Content_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\propertyContent\Content.js`)
+const Content_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\propertyContent\Content.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1760,7 +1760,7 @@ const ListingDetails = ()=>{
 
 ;// CONCATENATED MODULE: ./components/propertyContent/RightCol.js
 
-const RightCol_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\propertyContent\RightCol.js`)
+const RightCol_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\propertyContent\RightCol.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1895,7 +1895,7 @@ const SchoolsNearby = ()=>{
 
 ;// CONCATENATED MODULE: ./components/ProductDetails/Location.js
 
-const Location_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\ProductDetails\Location.js`)
+const Location_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\ProductDetails\Location.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1963,7 +1963,7 @@ function PropertyContent() {
 
 ;// CONCATENATED MODULE: ./components/sections/ProductSection.js
 
-const ProductSection_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\sections\ProductSection.js`)
+const ProductSection_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\sections\ProductSection.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1976,7 +1976,7 @@ const ProductSection_default_ = ProductSection_proxy.default;
 /* harmony default export */ const ProductSection = (ProductSection_default_);
 ;// CONCATENATED MODULE: ./components/ProductDetails/PropertyExploreView.js
 
-const PropertyExploreView_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\ProductDetails\PropertyExploreView.js`)
+const PropertyExploreView_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\ProductDetails\PropertyExploreView.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -2495,7 +2495,7 @@ function AveragePrices() {
 
 ;// CONCATENATED MODULE: ./components/ProductDetails/SimilerProperties.js
 
-const SimilerProperties_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\ProductDetails\SimilerProperties.js`)
+const SimilerProperties_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\ProductDetails\SimilerProperties.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -2508,7 +2508,7 @@ const SimilerProperties_default_ = SimilerProperties_proxy.default;
 /* harmony default export */ const SimilerProperties = (SimilerProperties_default_);
 ;// CONCATENATED MODULE: ./components/ProductDetails/AreaNearby.js
 
-const AreaNearby_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\ProductDetails\AreaNearby.js`)
+const AreaNearby_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\ProductDetails\AreaNearby.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -2521,7 +2521,7 @@ const AreaNearby_default_ = AreaNearby_proxy.default;
 /* harmony default export */ const AreaNearby = (AreaNearby_default_);
 ;// CONCATENATED MODULE: ./components/ScrollTopButton.js
 
-const ScrollTopButton_proxy = (0,module_proxy.createProxy)(String.raw`D:\alifNoon\aleefNoonUpdated\aleef-noon\components\ScrollTopButton.js`)
+const ScrollTopButton_proxy = (0,module_proxy.createProxy)(String.raw`C:\Users\Amina\Downloads\aleef-noon\components\ScrollTopButton.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -2595,7 +2595,7 @@ const PropertyDetail = ()=>{
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [2697,7608,1725,1619,2196,1202,3214,2872,2050,9826,1956,444,1888,2900,2974,6928,1573,1261,3875,4888,1107,6254], () => (__webpack_exec__(57999)));
+var __webpack_exports__ = __webpack_require__.X(0, [2697,7608,1725,1619,2196,1202,3214,2872,2050,9826,1956,444,1888,2900,2974,6928,1573,2133,3875,4888,1107,6254], () => (__webpack_exec__(4554)));
 module.exports = __webpack_exports__;
 
 })();

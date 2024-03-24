@@ -1,4 +1,4 @@
-// File: D:\alifNoon\aleefNoonUpdated\aleef-noon\app\Rent\page.js
+// File: C:\Users\Amina\Downloads\aleef-noon\app\Rent\page.js
 import * as entry from '../../../../app/Rent/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
