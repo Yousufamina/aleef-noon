@@ -63,15 +63,8 @@ function About() {
                                             className: "max-[1024px]:text-[12px] text-left w-[80%] mr-[30%] text-[#ECA33A] raleway-light font-light text-[16px] mb-[20px]",
                                             children: [
                                                 " ",
-                                                "is a professional real estate agency involved in sale and rent of properties in Dubai, UAE. We process our clients’ requests promptly in a CRM system, so all your questions will be answered timeously. Our competent team members are always available and are happy to consult with you on property selection at any time.",
+                                                "Welcome to Alif Noon Properties, the premier destination for real estate in Dubai. With years of experience and a commitment to excellence, we provide unparalleled customer service. Our dedicated team understands the significance of property transactions and is here to guide you through every step.",
                                                 " "
-                                            ]
-                                        }),
-                                        /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
-                                            className: "max-[1024px]:text-[12px] mb-[20px] w-[70%] ml-[30%] text-right text-[#ECA33A] raleway-light font-light text-[16px]",
-                                            children: [
-                                                " ",
-                                                "نحن وكالة عقارية محترفة متخصصة في بيع وتأجير العقارات في دبي، الإمارات العربية المتحدة. نُجيب على طلبات عملائنا بسرعة في نظام إدارة علاقات العملاء CRM، لذا ستُجاب على جميع استفساراتك بسرعة. فريقنا المتميز من الموظفين متواجدون دائمًا ويسعدون بتقديم الاستشارات حول اختيار العقار في أي وقت."
                                             ]
                                         }),
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("button", {
@@ -81,7 +74,7 @@ function About() {
                                             className: "customGoldButton font-semibold text-[20px] px-10 py-2.5 mr-2 mt-2 border-b-4 border-[#EEC78C] mt-[25]",
                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_link__WEBPACK_IMPORTED_MODULE_2___default()), {
                                                 className: "uppercase text-white",
-                                                href: "#",
+                                                href: "/Company-profile",
                                                 children: "Read More"
                                             })
                                         })

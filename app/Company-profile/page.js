@@ -47,10 +47,17 @@ function page() {
                         <h4 className='leading-[50px] raleway text-[#ECA33A] text-[45px] font-bold'> Alif Noon </h4>
                         <h5 className='leading-[50px] raleway text-white text-[40px] font-light'>A Real Estate Agency in Dubai </h5>
                         <p style={{letterSpacing:'2px'}} className='mt-[20px] raleway leading-[26px] text-[#cecece] text-[16px] font-light'>
-                        is a professional real estate agency involved in sale and rent of properties in Dubai, UAE. We process our clients’ requests promptly in a CRM system.
+                        Welcome to Alif Noon Properties, the premier destination for real estate in Dubai. 
+                        With years of experience and a commitment to excellence, we provide unparalleled customer 
+                        service. Our dedicated team understands the significance of property transactions and is
+                        here to guide you through every step.              
                         </p>
                         <p style={{letterSpacing:'2px'}} className='mt-[20px] raleway leading-[26px] text-[#cecece] text-[16px] font-light'>
-                        so all your questions will be answered timorously. Our competent team members are always available and are happy to consult with you on property selection at any time.
+                        We offer a diverse portfolio catering to all needs and budgets, from luxurious apartments to exclusive 
+                        villas. Our professionals possess in-depth knowledge of Dubai's real estate market, ensuring tailored
+                        advice aligned with your goals. Additionally, we provide comprehensive after-sales support and property 
+                        management services. Experience professionalism and transparency 
+                        with Alif Noon Properties - contact us today to begin your Dubai real estate journey.
                         </p>
                         <br/>
                         

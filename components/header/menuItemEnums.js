@@ -13,7 +13,7 @@ export const MenuItemKeys = Object.freeze({
   
   export const menuItems = [
     {
-      label: 'Buy',
+      label: 'Buys',
       key: MenuItemKeys.BUY,
       href: "/products/buy"
     },

@@ -445,14 +445,14 @@ function page() {
                                                         letterSpacing: "2px"
                                                     },
                                                     className: "mt-[20px] raleway leading-[26px] text-[#cecece] text-[16px] font-light",
-                                                    children: "is a professional real estate agency involved in sale and rent of properties in Dubai, UAE. We process our clients’ requests promptly in a CRM system."
+                                                    children: "Welcome to Alif Noon Properties, the premier destination for real estate in Dubai. With years of experience and a commitment to excellence, we provide unparalleled customer service. Our dedicated team understands the significance of property transactions and is here to guide you through every step."
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                                     style: {
                                                         letterSpacing: "2px"
                                                     },
                                                     className: "mt-[20px] raleway leading-[26px] text-[#cecece] text-[16px] font-light",
-                                                    children: "so all your questions will be answered timorously. Our competent team members are always available and are happy to consult with you on property selection at any time."
+                                                    children: "We offer a diverse portfolio catering to all needs and budgets, from luxurious apartments to exclusive villas. Our professionals possess in-depth knowledge of Dubai's real estate market, ensuring tailored advice aligned with your goals. Additionally, we provide comprehensive after-sales support and property management services. Experience professionalism and transparency with Alif Noon Properties - contact us today to begin your Dubai real estate journey."
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
@@ -961,7 +961,7 @@ const __default__ = proxy.default;
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [2697,7608,1725,1619,1202,2872,2133,3875,7937], () => (__webpack_exec__(96979)));
+var __webpack_exports__ = __webpack_require__.X(0, [2697,7608,1725,1619,1202,2872,8018,3875,7937], () => (__webpack_exec__(96979)));
 module.exports = __webpack_exports__;
 
 })();

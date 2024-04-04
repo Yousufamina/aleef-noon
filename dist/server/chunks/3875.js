@@ -129,7 +129,7 @@ const MenuItemKeys = Object.freeze({
 });
 const menuItems = [
     {
-        label: "Buy",
+        label: "Buys",
         key: MenuItemKeys.BUY,
         href: "/products/buy"
     },
